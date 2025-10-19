@@ -2,7 +2,7 @@
 
 Machine learning project for predicting loan approval outcomes using ensemble models and deep neural networks.
 
-##👥 Collaborators
+## 👥 Collaborators
 **Ryan Bausback & Yuhui Wang**
 
 ## 📊 Overview
@@ -14,11 +14,6 @@ Both tree-based ensemble methods and deep learning models were optimized using *
 - **Optimization:** Optuna for Bayesian hyperparameter tuning  
 - **Evaluation Metric:** ROC-AUC (achieved 0.96)  
 - **Tech Stack:** Python, Scikit-learn, PyTorch  
-
-## 📁 Files
-- `loan_approval_prediction.ipynb` → Main Colab notebook  
-- `requirements.txt` → Key dependencies  
-- (Optional) `data/` → Dataset folder (not included for privacy)
 
 ## 🚀 Results
 - Achieved **96% ROC-AUC** on validation data.  
